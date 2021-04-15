@@ -1,5 +1,5 @@
 # ETL-DATAPIPELINE-INTEGRATION
-This Project is aimed at Integrating the services of Big guns in data engineering.
+This Project is aimed at Integrating SPARK with local & cloud storage like AWS & GCP.
 (PYSPARK, AWS BOTO3, S3, RDS, PSYCOPG2 all in Colab's Linux environment)
 
 NOTE;
